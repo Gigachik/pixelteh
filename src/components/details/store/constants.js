@@ -1,0 +1,1 @@
+export const DETAILS_SET_BEERS = "DETAILS_SET_BEERS";

@@ -1,0 +1,3 @@
+export const HOME_SET_BEERS = "HOME_SET_BEERS";
+export const HOME_ADD_BEERS = "HOME_ADD_BEERS";
+export const HOME_UPDATE_META = "HOME_UPDATE_META";
